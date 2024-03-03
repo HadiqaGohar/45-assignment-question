@@ -61,7 +61,7 @@
 //console.log(names[3]+" "+message);
 
 //QUESTION 13
-//let transportation : string [] = ["Honda Motorcycle","Audi","Honda city"];
+//let transportation : string [] = ["Mercedes","Audi","Toyota"];
 //transportation.map((items) => console.log(`I would like to own a ${items}`));
 
 //QUESTION 14
@@ -345,8 +345,8 @@
 
 //QUESTION 32
 
-// const current_users = ['John','Bob','Eve','Charlie'];
-// const new_users = ['Alice','Dave','Frank','Eve','Grace'];
+// const current_users = ['Wajiha','Ayesha','Mehak','Ghazal'];
+// const new_users = ['Noor Fatima','Zainab Fatima','Fahad','Ahmed Raza','Zayan'];
 // const current_users_lower = current_users.map(user => user.toLowerCase());
 // for (let new_user of new_users) {
 //    if (current_users_lower.includes(new_user.toLowerCase())){
