@@ -27,7 +27,7 @@
 ////Your output should look something like the following, including the quotation marks:
 
 ////Answer 4
-Albert Einstein once said, “A person who never made a mistake never tried anything new.”
+////Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 //let quote : string = 'A person who never made a mistake never triesd anything new.';
 //let author : string ="Albert Einstein";
 //console.log(`${author} once said ,"${quote}"`);
